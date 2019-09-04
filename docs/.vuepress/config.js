@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/vue-coding-standards/',
   title: 'Vue项目开发编码规范', // 设置网站标题
   description: 'Vue项目开发编码规范', //描述
   dest: './dist', // 设置输出目录
