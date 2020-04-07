@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "gh-pages": "^2.1.1",
-    "vuepress": "^1.0.3",
+    "vuepress": "^1.4.0",
     "less": "^3.0.2",
     "vue-echarts": "^3.0.7"
   },
